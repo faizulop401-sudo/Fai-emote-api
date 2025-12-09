@@ -1,0 +1,5 @@
+{
+  "name": "emote-api",
+  "version": "1.0.0",
+  "main": "api/info.js"
+}
